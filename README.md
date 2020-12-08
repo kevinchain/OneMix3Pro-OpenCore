@@ -10,6 +10,10 @@ Install macOS on your 10th gen OneMix 3 minibooks.
 ## Post-installation tweaks
 A few required or otherwise useful steps to take on a running macOS system on your OneMix:
 
+**Using your own serial number**
+
+Just generate a new set with OpenCore Configurator and you're good to go
+
 **Changing the display orientation**
 
 To correct the display orientation within macOS, press and hold down `cmd+opt` (`Windows+alt`) and open `System Preferences`. Keep holding down those two buttons and click on `Displays`. The screen orientation option will now appear even for the built-in display. Set it to `90 degrees` for the correct orientation. Alternatively...just download the [Display Rotation Menu](https://www.magesw.com/displayrotation/) app and set the view to portrait flipped
@@ -35,6 +39,7 @@ In keyboard settings, select the modifier keys option, and switch `cmd` (win) wi
 - Internal Wi-Fi via OpenIntelWireless (Big Sur Support)
 - Bluetooth via OpenIntelWireless
 - Sleep
+- Touchscreen
 
 ## What's untested
 
@@ -44,7 +49,6 @@ In keyboard settings, select the modifier keys option, and switch `cmd` (win) wi
 ## What's not yet working
 
 - Microphone
-- Touchscreen
 - Lid Device (Auto triggered after boot; after wake no longer working)
 - Bluetooth (After a reboot IntelFirmware stucks at an infinite loop; will no longer boot until a hard shutdown)
 
