@@ -31,7 +31,7 @@ In keyboard settings, select the modifier keys option, and switch `cmd` (win) wi
 
 **Brightness Control**
 
-Use `Brightness Slider` from App Store. Partially works but it's inverted.
+Use `Brightness Slider` from App Store. Partially works but it's inverted. Alternatively check out the BrightnessX app and use F1/ F2 to increase/ lower the brightness. Unfortunately native brightness control isn't supported at this moment, interested developers might want to take a look at the DSDT and PNLF.
 
 ## What works
 
