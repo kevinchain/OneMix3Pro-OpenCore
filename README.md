@@ -29,6 +29,10 @@ In order to achieve a stable sleep, you're responsible of disabling the followin
 
 In keyboard settings, select the modifier keys option, and switch `cmd` (win) with `opt` (alt)
 
+**Brightness Control**
+
+Use `Brightness Slider` from App Store. Partially works but it's inverted.
+
 ## What works
 
 - Full hardware acceleration, faked UHD617 Amber Lake-Y
@@ -49,7 +53,6 @@ In keyboard settings, select the modifier keys option, and switch `cmd` (win) wi
 ## What's not yet working
 
 - Microphone
-- Lid Device (Auto triggered after boot; after wake no longer working)
 - Bluetooth (After a reboot IntelFirmware stucks at an infinite loop; will no longer boot until a hard shutdown)
 
 ## What will never* work
