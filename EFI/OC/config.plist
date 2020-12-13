@@ -173,7 +173,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
-				<string>Intel UHD Graphics 615</string>
+				<string>Intel UHD Graphics 617</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
@@ -565,24 +565,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CHID</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VoodooI2CGoodix.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooI2CGoodix</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
