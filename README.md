@@ -5,7 +5,7 @@ Install macOS on your 10th gen OneMix 3 minibooks.
 
 - **OneMix 3 Pro Koi/ Platinum/ Black with i7 10510Y**: The main model this configuration was developed with and for.
 - **OneMix 3 Pro Black with i5 10210Y**: Compatible in theory. Not tested.
-- **OneMix 3s Black/ Platinum with i3 10110Y** Compatible in theory. Not tested.
+- **OneMix 3s Black/ Platinum/ Pink with i3 10110Y** Compatible in theory. Not tested.
  
 ## Post-installation tweaks
 A few required or otherwise useful steps to take on a running macOS system on your OneMix:
@@ -53,7 +53,6 @@ Use `Brightness Slider` from App Store. Partially works but it's inverted. Alter
 ## What's not yet working
 
 - Microphone
-- Bluetooth (After a reboot IntelFirmware stucks at an infinite loop; will no longer boot until a hard shutdown)
 
 ## What will never* work
 
